@@ -1,0 +1,6 @@
+{
+  "name": "Crime Manager",
+  "description": "Comprehensive Crime Investigation & Case Management System with Local SQLite and Backend Synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

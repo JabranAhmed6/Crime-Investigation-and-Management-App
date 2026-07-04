@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shield Background -->
+    <path
+        android:fillColor="#E5A93B"
+        android:pathData="M 54,16 L 82,16 C 82,16 89,48 82,68 C 75,88 54,96 54,96 C 54,96 33,88 26,68 C 19,48 26,16 26,16 L 54,16 Z" />
+
+    <!-- Magnifying Glass inside the Shield -->
+    <path
+        android:strokeColor="#0D1117"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M 46,38 A 12 12 0 1 0 46,62 A 12 12 0 1 0 46,38 Z" />
+
+    <!-- Magnifying Glass Handle -->
+    <path
+        android:strokeColor="#0D1117"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round"
+        android:pathData="M 55,55 L 68,68" />
+        
+</vector>
